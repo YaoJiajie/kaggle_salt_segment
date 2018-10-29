@@ -1,4 +1,4 @@
-# Kaggle TGS Salt Identification Challenge (Top 6% model)
+# Kaggle TGS Salt Identification Challenge (Top 5% model)
 
 ## Model
 
